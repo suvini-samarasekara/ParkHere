@@ -1,0 +1,17 @@
+F:\C#\VS\ParkHere\ParkHere\bin\Debug\net6.0\ParkHere.exe
+F:\C#\VS\ParkHere\ParkHere\bin\Debug\net6.0\ParkHere.deps.json
+F:\C#\VS\ParkHere\ParkHere\bin\Debug\net6.0\ParkHere.runtimeconfig.json
+F:\C#\VS\ParkHere\ParkHere\bin\Debug\net6.0\ParkHere.dll
+F:\C#\VS\ParkHere\ParkHere\bin\Debug\net6.0\ref\ParkHere.dll
+F:\C#\VS\ParkHere\ParkHere\bin\Debug\net6.0\ParkHere.pdb
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.csproj.AssemblyReference.cache
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.AssemblyInfoInputs.cache
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.AssemblyInfo.cs
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.csproj.CoreCompileInputs.cache
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.dll
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ref\ParkHere.dll
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.pdb
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.genruntimeconfig.cache
+F:\C#\VS\ParkHere\ParkHere\bin\Debug\net6.0\Npgsql.dll
+F:\C#\VS\ParkHere\ParkHere\obj\Debug\net6.0\ParkHere.csproj.CopyComplete
